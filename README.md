@@ -5,7 +5,7 @@
 ```python
 # import libraries 
 import os
-import shutil #library for copying, moving and deleting files and folders
+import shutil #library for copying, moving and deleting files and folders 
 ```
 
 
