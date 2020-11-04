@@ -28,7 +28,7 @@ for folder in os.listdir(file_src):
 ###### In a folder I had several duplicate folders. First I extracted the name of the folder. The I analyzed how many duplicates I had. Then I created a dictionary with name of the folder and as valua I saved the paths to the folders I wanted to merge {gallery_name:[folder1, folder2, etc.]}. Then I selected one folder where I moved all other content from duplicate folders to. The empty folders were then deleted.
 
 
-```python
+```python 
 path = r"path\to\folder"
 ```
 
